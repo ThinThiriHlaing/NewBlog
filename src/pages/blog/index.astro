@@ -8,8 +8,8 @@ import FormattedDate from "../../components/FormattedDate.astro";
 
 const posts = (await Astro.glob("../../content/blog/*.{md,mdx}")).sort(
   (a, b) =>
-    new Date(b.frontmatter.publishDate).valueOf() -
-    new Date(a.frontmatter.publishDate).valueOf()
+    new Date(b.frontmatter.pubDate).valueOf() -
+    new Date(a.frontmatter.pubDate).valueOf()
 );
 ---
 
