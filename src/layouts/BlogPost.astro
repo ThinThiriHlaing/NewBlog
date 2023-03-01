@@ -7,7 +7,7 @@ import FormattedDate from "../components/FormattedDate.astro";
 
 const { title, description, pubDate, updatedDate, heroImage } =
   Astro.props.content;
-console.log(Astro.props);
+console.log(Astro.props.content.title);
 ---
 
 <html lang="en">
