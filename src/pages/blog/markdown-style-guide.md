@@ -1,10 +1,10 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
-pubDate: "Jul 01 2022"
-heroImage: "/assets/placeholder-hero.jpg"
-slug: "post-2"
-layout: "../../layouts/BlogPost.astro"
+title: Markdown Style Guide
+description: Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+pubDate: Jul 01 2022
+heroImage: /assets/placeholder-hero.jpg
+slug: post-2
+layout: ../../layouts/BlogPost.astro
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
@@ -98,7 +98,7 @@ The blockquote element represents content that is quoted from another source, op
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+<abbr title=  Graphics Interchange Format  >GIF</abbr> is a bitmap image format.
 
 H<sub>2</sub>O
 
