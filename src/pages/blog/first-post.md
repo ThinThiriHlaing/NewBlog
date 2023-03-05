@@ -2,7 +2,7 @@
 title: First post
 description: Lorem ipsum dolor sit amet
 pubDate: Jul 08 2022
-heroImage: /assets/placeholder-hero.jpg
+heroImage: ./assets/placeholder-hero.jpg
 # slug: post-1
 layout: ../../layouts/BlogPost.astro
 ---
