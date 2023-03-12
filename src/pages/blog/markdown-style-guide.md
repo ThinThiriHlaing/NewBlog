@@ -4,7 +4,7 @@ description: Here is a sample of some basic Markdown syntax that can be used whe
 pubDate: Jul 01 2022
 heroImage: ./assets/placeholder-hero.jpg
 # slug: post-2
-layout: ../../layouts/BlogPost.astro
+# layout: ../../layouts/BlogPost.astro
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
